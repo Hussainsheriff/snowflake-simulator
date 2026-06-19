@@ -1,0 +1,6 @@
+{
+  "name": "Snowflakes and Balloons Simulator",
+  "description": "A formal and interactive interface displaying falling snowflakes and floating balloons using smooth spring animations for exactly 5 seconds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
